@@ -1,0 +1,6 @@
+font-family = "ComicShannsMono Nerd Font"
+window-decoration = false
+theme = "tokyonight_night"
+gtk-single-instance = true
+shell-integration = fish
+

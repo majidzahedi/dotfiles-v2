@@ -1,0 +1,35 @@
+# System-specific files
+.DS_Store               # macOS metadata
+Thumbs.db               # Windows metadata
+
+# Vim/Neovim swap and backup files
+*.swp
+*.swo
+*.bak
+
+# Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Shell history (bash, zsh, fish)
+.bash_history
+.zsh_history
+
+# SSH keys (important for security)
+.ssh/
+
+# Fish shell cache and history
+.config/fish/fish_history
+.config/fish/fishd.*  
+.config/fish/generated_completions/  
+tmux/plugins/
+
+completions
+conf.d
+fishd.*
+functions
+vars.fish
+local.fish
+fish_variables
+tmux/.config/tmux/plugins/*
