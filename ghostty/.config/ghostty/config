@@ -1,6 +1,6 @@
 font-family = "ComicShannsMono Nerd Font"
 window-decoration = false
-theme = "tokyonight_night"
+theme = "catppuccin-mocha"
 gtk-single-instance = true
 shell-integration = fish
 
